@@ -16,7 +16,7 @@ header {
     background-color: black;
     padding-bottom: 1px;
     border-radius: 10px;
-    border: #084B8A 6px outset;
+    border: #8A0808 6px outset;
 }
 
 header iframe {
@@ -93,9 +93,9 @@ nav ul ul li {
 		
 nav a,
 nav span {
-	background-color: #0B3861;
+	background-color: #610B0B;
 	background-image: repeating-linear-gradient(135deg, transparent, transparent 9px, black 9px, black 10px);
-	border: 1px solid blue;
+	border: 1px solid red;
 	border-radius: 10px 10px 0 0;
 	box-shadow: 0px 5px 10px white inset;
 	color: #FFFFFF;
@@ -121,7 +121,7 @@ nav a:focus,
 nav a:hover,
 nav span {
 	color: #FFFFFF;
-	background-color: blue;
+	background-color: #610B0B;
 }
 		
 nav a:focus,
@@ -155,7 +155,7 @@ article h1 {
     font-style: normal;
     font-family: Verdana;
     color: #6E6E6E;
-    background-color: #0b3861;
+    background-color: #610B0B;
     font-size: 22pt;
     text-align: center;
     padding-top: 8px;
@@ -239,9 +239,9 @@ aside nav ul ul li {
 aside nav a,
 
 aside nav span {
-		background-color: #0B3861;
+		background-color: #610B0B;
 		background-image: repeating-linear-gradient(135deg, transparent, transparent 9px, black 9px, black 10px);
-		border: 1px solid blue;
+		border: 1px solid red;
 		border-radius: 10px 10px 0 0;
 		box-shadow: 0px 5px 10px white inset;
 		color: #FFFFFF;
@@ -270,7 +270,7 @@ aside nav a:focus,
 aside nav a:hover,
 aside nav span {
 		color: #FFFFFF;
-		background-color: blue;
+		background-color: red;
 }
 		
 aside nav a:focus,
