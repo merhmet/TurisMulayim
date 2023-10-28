@@ -14,14 +14,14 @@ header h1 {
     font-style: normal;
     font-family: Verdana;
     color: #6E6E6E;
-    background-color: #0b3861;
+    background-color: #610B0B;
     font-size: 22pt;
     text-align: center;
     padding-top: 8px;
     padding-bottom: 8px;
     text-shadow: black 6px 6px 6px;
     border-radius: 4px;
-    border: #666666 6px outset;
+    border: #610B0B 6px outset;
 }
 
 
