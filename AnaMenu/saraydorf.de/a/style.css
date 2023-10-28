@@ -130,7 +130,7 @@ nav li {
     background-color: black;
 
 
-    border: #C0C0C0 3px outset;
+    border: #610B0B 3px outset;
 
 
 }
@@ -187,7 +187,7 @@ nav a:hover {
 section {
 
 
-    background-color: #ECCEF5;
+    background-color: #610B0B;
 
 
     width: 670px;
@@ -241,7 +241,7 @@ Div h3 {
 
     text-shadow: black 0px 4px 0px;
 
-    background-color: #0B3861;
+    background-color: #610B0B;
 
     padding: 1px;
 
@@ -261,7 +261,7 @@ Div h3:hover {
     text-shadow: none;
 
 
-    background-color: blue;
+    background-color: red;
 
 }
 
