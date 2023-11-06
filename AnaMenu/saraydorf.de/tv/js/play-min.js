@@ -13,7 +13,7 @@ function TRT1(){
 }
 function TRT12(){
 	settings="width=100%,height=500,scrollbars=no,location=no,directories=no,status=no,menubar=no,toolbar=no,resizable=no,dependent=no";
-	win=window.open("//saraydorf.de/tv/play/server.htm?id=trt1","orta5",settings);
+	win=window.open("http://neptun2022.pro:8080/SL2.Uy9KF2p/sKNKFjcLSw/321703","orta5",settings);
 	win.focus();
 }
 
